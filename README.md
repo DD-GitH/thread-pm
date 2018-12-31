@@ -8,7 +8,7 @@ http://image.noelshack.com/fichiers/2018/01/1/1546279333-tpm.jpg
 
 Support : https://developement.design/forum/Forum-support--13
 
-Website : [url=https://developement.design/]https://developement.design/[/url]
+Website : https://developement.design/
 
 Skype : ef.team
 
